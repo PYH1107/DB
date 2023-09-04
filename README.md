@@ -1,4 +1,6 @@
 # DB (112-1 Database)
-Yun-Huei Pan (May Pan).
-NTNU TAHRD
+This is for the Database lecture in 2023 Fall from NTNU TAHRD.
+-
+Notes by Yun-Huei Pan (May Pan).
+
 
