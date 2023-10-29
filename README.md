@@ -9,6 +9,6 @@
 
 
 ### HW
-- [HW1](https://studio.youtube.com/channel/UCcaqjKbInqwLZLYA-lIaWsw/videos/upload?d=ud&filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D)
+- [HW1](https://youtu.be/9TLJht8OsqI)
 - [HW2](https://youtu.be/ULseoQCwAoQ)
 
