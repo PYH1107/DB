@@ -13,3 +13,16 @@
 - [HW2](https://youtu.be/ULseoQCwAoQ)
 - [HW3](https://youtu.be/QphMNU3LydQ)
 
+### Notes to myself
+1. For HW1:
+  - DO NOT forget your root password
+2. For HW2:
+  - client (react) :
+    > npm create react-app client
+    > 
+  - server (node.js):
+  - 
+4. For HW3:
+  - useful resources:
+    - [backend](https://www.tutussfunny.com/mern-full-stack-complete-application-mongodb-express-react-node-js/)
+    - [mongodb tutorials](https://www.youtube.com/watch?v=gDOKSgqM-bQ)
