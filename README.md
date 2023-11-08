@@ -18,7 +18,7 @@
   - DO NOT forget your root password
 2. For HW2:
   - Goal: This homework aims to connect the CRUD backend & frontend and also connect with mysql workbench
-  - Step 1. source code download from [here](https://github.com/machadop1407/Simple-CRUD-React-Node-MySQL) and [this](https://www.youtube.com/watch?v=re3OIOr9dJI&t=0s) is the tutorial. You can also learn CRUD in mandarin Chinese in [this video](https://www.youtube.com/watch?v=e98hQpi8Pac&t=186s), which is recorded by (Irene Chang)[https://github.com/41071119H-Irene], one of my best classmate ever.
+  - Step 1. source code download from [here](https://github.com/machadop1407/Simple-CRUD-React-Node-MySQL) and this is the [tutorial]((https://www.youtube.com/watch?v=re3OIOr9dJI&t=0s). You can also learn CRUD in mandarin Chinese by watching [this video](https://www.youtube.com/watch?v=e98hQpi8Pac&t=186s), which is recorded by [Irene Chang](https://github.com/41071119H-Irene), one of my best classmate ever.
   - Step 2. instructions to remember
     - client (react) :
       > npm create react-app client
