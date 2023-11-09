@@ -25,7 +25,7 @@
     (i) create new folders: client, server
     (ii)
     - client (react) :
-      > npm create react-app client
+      ˋ npm create react-app clientˋ
       > npm start  
         (**remind that you need to change director to your client folder before typing npm start**)
       > Get into the "src"folder from the source code we'e hust downloaded (client > src), copy three files: App.css, App.js, and index.js
