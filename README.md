@@ -11,8 +11,8 @@
 ### HW
 - [HW1](https://youtu.be/9TLJht8OsqI)
 - [HW2](https://youtu.be/ULseoQCwAoQ)
-- [HW3](https://youtu.be/QphMNU3LydQ) << This is the wwong video. Only to show that i've tried to upload my video but in vain :( 
-- [HW3 neeeewwww!]() << Click this url to check my hw3 please QAQ
+- [HW3](https://youtu.be/QphMNU3LydQ) << This is the wwong video. I keep it here only to prove that i've tried to upload my video before time but in vain :( 
+- [HW3 neeeewwww!](https://youtu.be/xS1sqJnnocc) << Click this url to check my hw3 please QAQ
 
 ### Notes to myself
 1. For HW1:
