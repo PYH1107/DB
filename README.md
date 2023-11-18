@@ -23,22 +23,24 @@
   - Step 1. source code download from [here](https://github.com/machadop1407/Simple-CRUD-React-Node-MySQL) and this is the [tutorial](https://www.youtube.com/watch?v=re3OIOr9dJI&t=0s). You can also learn CRUD in mandarin Chinese by watching [this video](https://www.youtube.com/watch?v=e98hQpi8Pac&t=186s), which is recorded by [Irene Chang](https://github.com/41071119H-Irene), one of my best classmate ever.
   - Step 2. instructions to remember
     (i) create new folders: client, server
-    (ii)
+    (ii) steps as followings:
     - client (react) :
-      ˋ npm create react-app clientˋ
-      > npm start  
-        (**remind that you need to change director to your client folder before typing npm start**)
-      > Get into the "src"folder from the source code we'e hust downloaded (client > src), copy three files: App.css, App.js, and index.js
-      > Replace these files into your client>src we've just added by "npm"
-      > If "axios" doesn't exist, "npm install axios"
-  - server (node.js):
-      **(remind that you need to change directr to your server folder before giving instructions)**
-      > npm init
-      Then, there should automatically appear a "package.json" file in your server folder after ˋnpm initˋ
-      > add "index.js" file to the server folder
-      >
+		2.1.1 `npm create react-app client`
+		2.1.2  change director to your client folder
+		2.1.3  `npm start`  
+		2.1.4 from folders we just downloaded : 
+		`Simple-CRUD-React-Node-MySQL-main.zip\Simple-CRUD-React-Node-MySQL-main\client\src`
+		2.1.5 copy three files: **App.css, App.js, and index.js**. Then Replace these files into your client>src we've just added by "npm" (If "axios" doesn't exist, "npm install axios")
+
+	- server (node.js):
+		 2.2.1 change directr to your server folder 
+		  2.2.2  `npm init` (Then there should automatically appear a "**package.json**" file in your server folder)
+	      2.2.3 from folders we've just downloaded: 
+	      add **"index.js"** in `Simple-CRUD-React-Node-MySQL-main.zip\Simple-CRUD-React-Node-MySQL-main\server`  to YOUR server folder
+    
     (iii)
       Change the names of our tables and columns from index. js(in server folder) and App.js(in client folder) respecitvely
+      - ask ChatGPT to change the table  and column names to what you've don in HW1
       
   - 
 4. For HW3:
