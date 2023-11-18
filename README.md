@@ -15,10 +15,10 @@
 - [HW3 neeeewwww!](https://youtu.be/xS1sqJnnocc) << Click this url to check my hw3 please QAQ
 
 ### Notes to myself
-1. For HW1:
+#### 1. For HW1:
   - Just simply biuld tables that you need
   - DO NOT forget your root password
-2. For HW2:
+#### 2. For HW2:
   - Goal: This homework aims to connect the CRUD backend & frontend and also connect with mysql workbench
   - Step 1. source code download from [here](https://github.com/machadop1407/Simple-CRUD-React-Node-MySQL) and this is the [tutorial](https://www.youtube.com/watch?v=re3OIOr9dJI&t=0s). You can also learn CRUD in mandarin Chinese by watching [this video](https://www.youtube.com/watch?v=e98hQpi8Pac&t=186s), which is recorded by [Irene Chang](https://github.com/41071119H-Irene), one of my best classmate ever.
   - Step 2. instructions to remember
@@ -42,8 +42,7 @@
       Change the names of our tables and columns from index. js(in server folder) and App.js(in client folder) respecitvely
       - ask ChatGPT to change the table  and column names to what you've don in HW1
       
-  - 
-4. For HW3:
+#### 3. For HW3:
   - Goal: using mongodb to access our data in mysql
   - useful resources:
     - [backend](https://www.tutussfunny.com/mern-full-stack-complete-application-mongodb-express-react-node-js/)
