@@ -53,7 +53,7 @@ There are two ways to get to our goal
       - notes to myself: neccessary downloading: mongadb community server & mongodb compass
   (ii) Method 2, by scripts.
       - videos that our professor recommanded us
-        -  [Build app using React JS, Node Express JS and Mongo DB (MERN Stack)] (https://www.youtube.com/watch?v=mDgKjb5eWPk)
+        -  [Build app using React JS, Node Express JS and Mongo DB (MERN Stack)](https://www.youtube.com/watch?v=mDgKjb5eWPk)
         -  [Nodejs React with Mongodb (MERN) Crud App(MongoDB, Express, React, Node JS)](https://www.youtube.com/watch?v=DdzAr3TJKHg)
       - Step1: 
       
