@@ -40,7 +40,7 @@
     
     (iii)
       Change the names of our tables and columns from index. js(in server folder) and App.js(in client folder) respecitvely
-      - ask ChatGPT to change the table  and column names to what you've don in HW1
+      - ask ChatGPT to change the table  and column names into what you've done in HW1
       
 #### 3. For HW3:
   - Goal: using mongodb to access our data in mysql
@@ -52,8 +52,8 @@ There are two ways to get to our goal
       Tutorial playlist that I checked : [Complete MongoDB Tutorial](https://www.youtube.com/watch?v=ojKJqNQYaOI). For this homework, we need only video 1~4 (merely for learning how to use the tool and install it)
       - notes to myself: neccessary downloading: mongadb community server & mongodb compass
   (ii) Method 2, by scripts.
-      - videos that our professro recommanded us
-        - [Build app using React JS, Node Express JS and Mongo DB (MERN Stack)] (https://www.youtube.com/watch?v=mDgKjb5eWPk)
-        - [Nodejs React with Mongodb (MERN) Crud App(MongoDB, Express, React, Node JS)](https://www.youtube.com/watch?v=DdzAr3TJKHg)
+      - videos that our professor recommanded us
+        -  [Build app using React JS, Node Express JS and Mongo DB (MERN Stack)] (https://www.youtube.com/watch?v=mDgKjb5eWPk)
+        -  [Nodejs React with Mongodb (MERN) Crud App(MongoDB, Express, React, Node JS)](https://www.youtube.com/watch?v=DdzAr3TJKHg)
       - Step1: 
       
