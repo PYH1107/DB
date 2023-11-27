@@ -25,12 +25,12 @@
     (i) create new folders: client, server
     (ii) steps as followings:
     - client (react) :
-		2.1.1 `npm create react-app client`
-		2.1.2  change director to your client folder
-		2.1.3  `npm start`  
-		2.1.4 from folders we just downloaded : 
+    	- 2.1.1 `npm create react-app client`
+     	- 2.1.2  change director to your client folder
+      	- 2.1.3  `npm start`
+      	- 2.1.4 from folders we just downloaded : 
 		`Simple-CRUD-React-Node-MySQL-main.zip\Simple-CRUD-React-Node-MySQL-main\client\src`
-		2.1.5 copy three files: **App.css, App.js, and index.js**. Then Replace these files into your client>src we've just added by "npm" (If "axios" doesn't exist, "npm install axios")
+	- 2.1.5 copy three files: **App.css, App.js, and index.js**. Then Replace these files into your client>src we've just added by "npm" (If "axios" doesn't exist, "npm install axios")
 
 	- server (node.js):
 		 2.2.1 change directr to your server folder 
