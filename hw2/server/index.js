@@ -10,18 +10,18 @@ const db = mysql.createConnection({
   user: "root",
   host: "localhost",
   password: "mshkey72516Mshkey", //change
-  database: "project", //
+  database: "project", //table name
 });
 
 app.post("/create", (req, res) => {
-  const project_id = req.body.project_id;
+  const project_id = req.body.project_id; //constant = column
   const work_type = req.body.work_type;
   const description = req.body.description;
   const attachment = req.body.attachment;
 
 
   db.query(
-    "INSERT INTO detail (project_id, work_type, description, attachment) VALUES (?,?,?,?)",
+    "INSERT INTO detail (project_id, work_type, description, attachment) VALUES (?,?,?,?)",//
     [project_id, work_type, description, attachment],
     (err, result) => {
       if (err) {
