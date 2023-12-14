@@ -1,3 +1,5 @@
+/*from help > page > index.css*/
+
 .main-container {
   overflow: hidden;
 }
@@ -29,7 +31,7 @@
   height: 77px;
   top: 7px;
   left: 87px;
-  background: url(../assets/images/525448f1581a26392c20c7cf83284d95ed99a2d9.png)
+  background: url(./assets/images/525448f1581a26392c20c7cf83284d95ed99a2d9.png)
     no-repeat center;
   background-size: cover;
   z-index: 93;
@@ -51,7 +53,7 @@
   height: 38px;
   top: 4px;
   left: 676.2px;
-  background: url(../assets/images/d003a050-3e91-4092-8aa9-ec29a6df25a0.png)
+  background: url(./assets/images/d003a050-3e91-4092-8aa9-ec29a6df25a0.png)
     no-repeat center;
   background-size: cover;
   z-index: 88;
@@ -62,7 +64,7 @@
   height: 20px;
   top: 12px;
   left: 684.6px;
-  background: url(../assets/images/1c5000d5-d1df-4a5e-a0ef-07203cfeb460.png)
+  background: url(./assets/images/1c5000d5-d1df-4a5e-a0ef-07203cfeb460.png)
     no-repeat center;
   background-size: cover;
   z-index: 89;
@@ -132,7 +134,7 @@
   height: 413px;
   top: 0;
   left: 0;
-  background: url(../assets/images/92b4c900-c7e4-4afc-a065-237185f9c43b.png)
+  background: url(./assets/images/92b4c900-c7e4-4afc-a065-237185f9c43b.png)
     no-repeat center;
   background-size: cover;
   z-index: 71;
@@ -142,7 +144,7 @@
   width: 81px;
   height: 81px;
   margin: 20px 0 0 82px;
-  background: url(../assets/images/d4e4a800-6634-4170-b887-b861e21f6835.png)
+  background: url(./assets/images/d4e4a800-6634-4170-b887-b861e21f6835.png)
     no-repeat center;
   background-size: cover;
   z-index: 81;
@@ -179,7 +181,7 @@
   height: 28px;
   top: 0;
   left: 0;
-  background: url(../assets/images/3c58cec1-4e23-476f-a1af-4f7cc7e43361.png)
+  background: url(./assets/images/3c58cec1-4e23-476f-a1af-4f7cc7e43361.png)
     no-repeat center;
   background-size: cover;
   z-index: 82;
@@ -225,7 +227,7 @@
   width: 19.485px;
   height: 23.73px;
   margin: 1.932px 0 0 4.257px;
-  background: url(../assets/images/29bbcc9f-2c25-4d14-9098-35d93ed7e05d.png)
+  background: url(./assets/images/29bbcc9f-2c25-4d14-9098-35d93ed7e05d.png)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 76;
@@ -269,7 +271,7 @@
   width: 25.083px;
   height: 25.083px;
   margin: 1.458px 0 0 1.458px;
-  background: url(../assets/images/74515ce5-75e1-445f-af43-b5c84f85dea4.png)
+  background: url(./assets/images/74515ce5-75e1-445f-af43-b5c84f85dea4.png)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 79;
@@ -314,7 +316,7 @@
   height: 56px;
   top: 24px;
   left: 437px;
-  background: url(../assets/images/44156fca-1c3a-4540-b0f5-3313ab604f1a.png)
+  background: url(./assets/images/44156fca-1c3a-4540-b0f5-3313ab604f1a.png)
     no-repeat center;
   background-size: cover;
   z-index: 64;
@@ -369,7 +371,7 @@
   height: 22px;
   top: 12px;
   left: 286px;
-  background: url(../assets/images/30db8572-d09c-4650-a9f9-ff02907708b8.png)
+  background: url(./assets/images/30db8572-d09c-4650-a9f9-ff02907708b8.png)
     no-repeat center;
   background-size: cover;
   z-index: 60;
@@ -398,7 +400,7 @@
   height: 24px;
   top: 86px;
   left: 252px;
-  background: url(../assets/images/27f1cd58-db17-4984-b816-2508ff037c3f.png)
+  background: url(./assets/images/27f1cd58-db17-4984-b816-2508ff037c3f.png)
     no-repeat center;
   background-size: cover;
   z-index: 59;
@@ -436,7 +438,7 @@
   height: 22px;
   top: 12px;
   left: 286px;
-  background: url(../assets/images/4067a0cf-015d-44c5-9562-47c560a2ef50.png)
+  background: url(./assets/images/4067a0cf-015d-44c5-9562-47c560a2ef50.png)
     no-repeat center;
   background-size: cover;
   z-index: 52;
@@ -465,7 +467,7 @@
   height: 24px;
   top: 86px;
   left: 252px;
-  background: url(../assets/images/c9d14923-f1b6-4016-8ba3-30a2be0a98c2.png)
+  background: url(./assets/images/c9d14923-f1b6-4016-8ba3-30a2be0a98c2.png)
     no-repeat center;
   background-size: cover;
   z-index: 51;
@@ -503,7 +505,7 @@
   height: 22px;
   top: 12px;
   left: 290px;
-  background: url(../assets/images/d20ed2c9-24d8-46b7-a1be-8601818a7c4a.png)
+  background: url(./assets/images/d20ed2c9-24d8-46b7-a1be-8601818a7c4a.png)
     no-repeat center;
   background-size: cover;
   z-index: 44;
@@ -532,7 +534,7 @@
   height: 24px;
   top: 82.791px;
   left: 242px;
-  background: url(../assets/images/7a25c800-88ec-41f0-b33e-57479872563e.png)
+  background: url(./assets/images/7a25c800-88ec-41f0-b33e-57479872563e.png)
     no-repeat center;
   background-size: cover;
   z-index: 43;
@@ -587,7 +589,7 @@
   height: 22px;
   top: 8px;
   left: 285px;
-  background: url(../assets/images/120fe8e4-a6cb-4d5f-b314-e7cdb24c1aaa.png)
+  background: url(./assets/images/120fe8e4-a6cb-4d5f-b314-e7cdb24c1aaa.png)
     no-repeat center;
   background-size: cover;
   z-index: 36;
@@ -599,7 +601,7 @@
   height: 24px;
   top: 82.791px;
   left: 249px;
-  background: url(../assets/images/fc6bb695-4d5a-4d5f-a21e-5adb40858b97.png)
+  background: url(./assets/images/fc6bb695-4d5a-4d5f-a21e-5adb40858b97.png)
     no-repeat center;
   background-size: cover;
   z-index: 35;
@@ -629,7 +631,7 @@
   height: 56px;
   top: 360px;
   left: 50%;
-  background: url(../assets/images/d805c43e-0ad0-4292-8a87-163688690e58.png)
+  background: url(./assets/images/d805c43e-0ad0-4292-8a87-163688690e58.png)
     no-repeat center;
   background-size: cover;
   transform: translate(-482.11%, 0);
@@ -745,7 +747,7 @@
   width: 38px;
   height: 36px;
   margin: 0 0 0 0;
-  background: url(../assets/images/4a4743c9-f8f0-4be4-b50c-ab1d247fc1d7.png)
+  background: url(./assets/images/4a4743c9-f8f0-4be4-b50c-ab1d247fc1d7.png)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 27;
@@ -756,7 +758,7 @@
   height: 42px;
   top: 54px;
   left: 0;
-  background: url(../assets/images/0943a1cc-62ae-40bf-9d0f-6170eb3ffec8.png)
+  background: url(./assets/images/0943a1cc-62ae-40bf-9d0f-6170eb3ffec8.png)
     no-repeat center;
   background-size: cover;
   z-index: 25;
@@ -768,7 +770,7 @@
   height: 22px;
   top: 64px;
   left: 11px;
-  background: url(../assets/images/6e87ecf4-1e1c-458b-9475-1214fadb06ea.png)
+  background: url(./assets/images/6e87ecf4-1e1c-458b-9475-1214fadb06ea.png)
     no-repeat center;
   background-size: cover;
   z-index: 22;
@@ -847,7 +849,7 @@
   width: 38px;
   height: 36px;
   margin: 0 0 0 0;
-  background: url(../assets/images/5f3c15bf-71a5-47d9-af82-882edffe4673.png)
+  background: url(./assets/images/5f3c15bf-71a5-47d9-af82-882edffe4673.png)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 18;
@@ -858,7 +860,7 @@
   height: 42px;
   top: 58px;
   left: 0;
-  background: url(../assets/images/2accb9db-7bc3-48c2-ba5e-49806a23ab71.png)
+  background: url(./assets/images/2accb9db-7bc3-48c2-ba5e-49806a23ab71.png)
     no-repeat center;
   background-size: cover;
   z-index: 13;
@@ -870,7 +872,7 @@
   height: 22px;
   top: 68px;
   left: 11px;
-  background: url(../assets/images/471b4e8b-27ee-4662-9913-47655aecdb60.png)
+  background: url(./assets/images/471b4e8b-27ee-4662-9913-47655aecdb60.png)
     no-repeat center;
   background-size: cover;
   z-index: 14;
@@ -924,7 +926,7 @@
   height: 42px;
   top: 70px;
   left: 801px;
-  background: url(../assets/images/37f4ec36-ba42-4d99-b4a2-d393378488fc.png)
+  background: url(./assets/images/37f4ec36-ba42-4d99-b4a2-d393378488fc.png)
     no-repeat center;
   background-size: cover;
   z-index: 4;
@@ -936,7 +938,7 @@
   height: 22px;
   top: 80px;
   left: 812px;
-  background: url(../assets/images/196eee22-7f42-421d-83b8-c301c7b0e637.png)
+  background: url(./assets/images/196eee22-7f42-421d-83b8-c301c7b0e637.png)
     no-repeat center;
   background-size: cover;
   z-index: 5;
@@ -974,7 +976,7 @@
   position: relative;
   width: 38px;
   height: 36px;
-  background: url(../assets/images/17e49dd0-191f-433f-9875-202a9bb589e8.png)
+  background: url(./assets/images/17e49dd0-191f-433f-9875-202a9bb589e8.png)
     no-repeat center;
   background-size: 100% 100%;
   z-index: 9;
