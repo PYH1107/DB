@@ -13,7 +13,7 @@
 - [HW2](https://youtu.be/ULseoQCwAoQ)
 - [HW3](https://youtu.be/QphMNU3LydQ) << This is the wwong video. I keep it here only to prove that i've tried to upload my video before time but in vain :( 
 - [HW3 neeeewwww!](https://youtu.be/xS1sqJnnocc) << Click this url to check my hw3 please QAQ
-- [Final Project](https://youtu.be/wpaiewFtmSM?si=cqDM4DM9qDo00VAf_
+- [Final Project](https://youtu.be/wpaiewFtmSM?si=cqDM4DM9qDo00VAf)
 	- This is the final project of this lecture for the semester. Instead of using node.js and react, we figure out a great tool, which is [Retool](https://retool.com/?_keyword=&adgroupid=&utm_source=google&utm_medium=display&utm_campaign=20576962772&utm_term=&utm_content=&hsa_acc=7420316652&hsa_cam=20576962772&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiAp5qsBhAPEiwAP0qeJtWepSaznhaMiCgreis-ecLOexnMpbDZdn5YX9hT6lJdhciv9hq4hxoC5gkQAvD_BwE). It helped us a lot for designin the user interface and the backend since we can build our own database in it, too. Feeling grateful for the help of modern technology xD and we'll go all out to make our project into reality. <3
 ### Notes to myself
 #### 1. For HW1:
