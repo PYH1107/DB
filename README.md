@@ -55,5 +55,4 @@ There are two ways to get to our goal
       - videos that our professor recommanded us
         -  [Build app using React JS, Node Express JS and Mongo DB (MERN Stack)](https://www.youtube.com/watch?v=mDgKjb5eWPk)
         -  [Nodejs React with Mongodb (MERN) Crud App(MongoDB, Express, React, Node JS)](https://www.youtube.com/watch?v=DdzAr3TJKHg)
-      - Step1: 
       
