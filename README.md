@@ -9,9 +9,11 @@
 
 
 ### HW
-- [HW1](https://youtu.be/9TLJht8OsqI)
-- [HW2](https://youtu.be/ULseoQCwAoQ)
-- [HW3](https://youtu.be/xS1sqJnnocc) 
+- [HW1: Create your own database: ER Diagram](https://youtu.be/9TLJht8OsqI)
+  ![image](https://github.com/PYH1107/DB/assets/93831321/2b4a959c-af73-47cb-9066-9813dbeee310)
+
+- [HW2: Create your own database: build one's DB by MySQL Workbench](https://youtu.be/ULseoQCwAoQ)
+- [HW3: MongoDB](https://youtu.be/xS1sqJnnocc) 
 - [Final Project video](https://youtu.be/wpaiewFtmSM?si=cqDM4DM9qDo00VAf) & [Final Project in Retool](https://ntnutahrd.retool.com/apps/1a6c5660-9bdc-11ee-86da-8f8d4b37c232/IdeaShare%20Beta)
 	- This is the final project of this lecture for the semester. Instead of using node.js and react, we figure out a great tool, which is [Retool](https://retool.com/?_keyword=&adgroupid=&utm_source=google&utm_medium=display&utm_campaign=20576962772&utm_term=&utm_content=&hsa_acc=7420316652&hsa_cam=20576962772&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiAp5qsBhAPEiwAP0qeJtWepSaznhaMiCgreis-ecLOexnMpbDZdn5YX9hT6lJdhciv9hq4hxoC5gkQAvD_BwE). It helped us a lot for designin the user interface and the backend since we can build our own database in it, too. Feeling grateful for the help of modern technology xD and we'll go all out to make our project into reality. <3
  	 <img width="720" alt="image" src="https://github.com/PYH1107/DB/assets/93831321/bef07909-ca21-4f13-834b-7984c14ec1ab">![image](https://github.com/PYH1107/DB/assets/93831321/8dbc4bcd-a534-4449-9da0-bfb8631a614d)
